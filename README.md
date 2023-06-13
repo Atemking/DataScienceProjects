@@ -1,4 +1,4 @@
-# ANALYSE SUPERMARKET DATA ACROSS THE COUNTRY FOR COMPANY XYZ USING PANDAS ANALYTIC
+# ANALYSIS FOR A  SUPERMARKET DATA ACROSS THE COUNTRY FOR THE COMPANY OR SUPERMARKET CALLED XYZ USING PANDAS ANALYTIC
 
   I use pandas analytics to analyse a supermarket data which have branches accross three major cities
   in the country.This analysis is to help us get insight on market trends as the supermarket sector is 
