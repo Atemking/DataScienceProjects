@@ -14,10 +14,10 @@
   In this part of project, I had to read cvs files from each of the three major branch in the country. These files where been
   stored in a directory which i read through all of them and stored them in a DataFrame.  Before been able to read the files. 
   i had to import certain core Libraries which help me to access the files. These are the Libraries which i use below. 
- * import os
- * import glob
- * import pandas as pd
- * os.chdir("/mydir")
+ * **import os**
+ * **import glob**
+ * **import pandas as pd**
+ * **os.chdir("/mydir")**
      
    
   Step 2 - Data Exploration 
